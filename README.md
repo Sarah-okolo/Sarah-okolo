@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sarah-okolo
 - 👀 I’m interested in .
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javàscript
+
 - 💞️ I’m looking to collaborate on web development activities
 - 📫 How to reach me... okolosarah402@gmail.com
 
