@@ -10,6 +10,8 @@
 - __Twitter__: [@SahraOke](https://twitter.com/SahraOke?t=w91LaXE9e1QfjnYqAqw7WA&s=09)
 - __LinkenIn__: [@sarah oke okolo](https://www.linkedin.com/in/sarah-oke-okolo-0b2a04250)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-okolo&layout=compact)](https://github.com/sarah-okolo/github-readme-stats)
+
 <!--- Computer jokes --->
 #### wanna hear a joke?😅
 ![Jokes Card](https://readme-jokes.vercel.app/api)
