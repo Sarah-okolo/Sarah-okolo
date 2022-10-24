@@ -1,4 +1,5 @@
-# ⚡ WELCOME 
+<img src="./8CPR.gif" alt="Welcome gif" />
+
 - 👋 Hi, I’m @__Sarah-okolo__
 
 - 💞️ I’m looking to collaborate on web development activities
