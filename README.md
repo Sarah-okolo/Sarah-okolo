@@ -17,7 +17,8 @@
 ### wanna hear a joke?😅
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-#### __Favourite life quote__: Failure Can't Cope With Consistency ✅
+#### __Favourite life quote__: 
+Failure Can't Cope With Consistency ✅
 <!---
 Sarah-okolo/Sarah-okolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
