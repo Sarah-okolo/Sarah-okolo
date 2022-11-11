@@ -11,6 +11,11 @@
 - 🐦 __Twitter__: [@SahraOke](https://twitter.com/SahraOke?t=w91LaXE9e1QfjnYqAqw7WA&s=09)
 - ℹ️ __LinkenIn__: [@sarah oke okolo](https://www.linkedin.com/in/sarah-oke-okolo-0b2a04250)
 
+## __Blog__:
+ I post programming related contents on my blog, you can check it out at:
+
+[https://dev.to/sarahokolo](https://dev.to/sarahokolo)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-okolo&layout=compact)](https://github.com/sarah-okolo/github-readme-stats)
 
 <!--- Computer jokes --->
