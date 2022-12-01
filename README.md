@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Sarah okolo
 
-## 💞️ I specialise in: [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C+programming+language;JavaScript;React;HTML(Hyper+Text+Markup+Language);CSS(Cascading+Style+Sheet);and+more+to+come😁...)](https://git.io/typing-svg)
+## 💞️ I specialise in: [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C+programming+language;Python;JavaScript;React;HTML(Hyper+Text+Markup+Language);CSS(Cascading+Style+Sheet);and+more+to+come😁...)](https://git.io/typing-svg)
 
 ![Sahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah-okolo&show_icons=true&theme=tokyonight)
 
