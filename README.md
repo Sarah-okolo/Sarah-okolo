@@ -18,7 +18,8 @@
  I post programming-related content on my DEV blog page, you can check it out at:
 
 [![DEV icon](https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)](https://dev.to/sarahokolo)
-   
+
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-okolo&layout=compact&theme=tokyonight)](https://github.com/sarah-okolo/github-readme-stats)
 
