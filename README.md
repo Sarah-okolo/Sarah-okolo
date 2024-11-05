@@ -27,7 +27,7 @@
 
 [![An image of @sarahokolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarahokolo)](https://holopin.io/@sarahokolo)
 
-<img src="./openSauced badge.png" alt="Welcome gif" />
+<img src="./openSauced-badge.png" alt="Welcome gif" />
 
 
 <!--- Computer jokes --->
